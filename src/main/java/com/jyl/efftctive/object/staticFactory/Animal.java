@@ -1,4 +1,4 @@
-package com.jyl.efftctive.staticFactory;
+package com.jyl.efftctive.object.staticFactory;
 
 /**
  * @TODO
